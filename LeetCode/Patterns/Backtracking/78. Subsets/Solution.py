@@ -1,13 +1,15 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        n=len(nums)
-        total_subset=1<<n    # similar to 2**n
-        result=[]
-        for num in range(total_subset):
-            lst=[]
-            for i in range(n):
-                if num & (1<<i) !=0:
-                    lst.append(nums[i])
-            result.append(lst)
+        res=[]
+        self.solve(nums,0,[],res)
+        return res
 
-        return result            
+    def solve(self,nums,ind,subset,res):
+        if ind>=len(nums):
+            res.append(subset.copy())
+            return
+        subset.append(nums[ind])
+        self.solve(nums,ind+1,subset,res)
+        subset.pop()
+        self.solve(nums,ind+1,subset,res)
+                            
