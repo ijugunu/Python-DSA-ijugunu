@@ -17,4 +17,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ijugunu/Python-DSA-ijugunu/tree/master/0496-next-greater-element-i) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ijugunu/Python-DSA-ijugunu/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ijugunu/Python-DSA-ijugunu/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ijugunu/Python-DSA-ijugunu/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ijugunu/Python-DSA-ijugunu/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
