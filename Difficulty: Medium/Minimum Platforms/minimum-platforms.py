@@ -3,7 +3,7 @@ class Solution:
         n=len(arr)
         arr.sort()
         dep.sort()
-        
+
         ans=1
         count=1
         i=1
@@ -16,5 +16,4 @@ class Solution:
                 count-=1
                 j+=1
             ans=max(ans,count)
-        return ans    
-                
+        return ans
