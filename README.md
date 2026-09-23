@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ijugunu/Python-DSA-ijugunu/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/ijugunu/Python-DSA-ijugunu/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ijugunu/Python-DSA-ijugunu/tree/master/0055-jump-game) |
+| [0268-missing-number](https://github.com/ijugunu/Python-DSA-ijugunu/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ijugunu/Python-DSA-ijugunu/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/ijugunu/Python-DSA-ijugunu/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ijugunu/Python-DSA-ijugunu/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/ijugunu/Python-DSA-ijugunu/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -60,4 +62,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/ijugunu/Python-DSA-ijugunu/tree/master/0283-move-zeroes) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ijugunu/Python-DSA-ijugunu/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ijugunu/Python-DSA-ijugunu/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ijugunu/Python-DSA-ijugunu/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ijugunu/Python-DSA-ijugunu/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
